@@ -1,0 +1,14 @@
+.btn {
+    font-size: 20px;
+    margin: 5px;
+    width: 58px;
+    height: 56px;
+    font-weight: bolder;
+}
+
+.buttonscontainer {
+    padding: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
